@@ -38,6 +38,6 @@
 > frida BaldrSky.exe -l hook.js
 ```
 
-若启动成功 则应显示如下图所示
+若启动成功 则应显示如下图所示（显示到`[Local::BaldrSky.exe ]->`这一行）
 
 ![powershell](./img/powershell.png)
